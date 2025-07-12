@@ -5,5 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+<<<<<<< HEAD
+=======
+    "langchain>=0.3.26",
+    "langchain-google-genai>=2.1.6",
+    "langgraph>=0.5.1",
+    "langgraph-cli[inmem]>=0.3.3",
+>>>>>>> a941ded (adding mcp client)
     "pandas>=2.3.0",
 ]
