@@ -1,0 +1,8 @@
+server_command: python
+server_args:
+  - examples/simple_server.py
+server_env:
+  DEBUG: "false"
+transport_type: stdio
+timeout: 30
+debug: false 
