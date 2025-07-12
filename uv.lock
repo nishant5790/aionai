@@ -8,12 +8,18 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
     { name = "langchain" },
     { name = "langchain-google-genai" },
     { name = "langgraph" },
     { name = "langgraph-cli", extra = ["inmem"] },
+<<<<<<< HEAD
 >>>>>>> a941ded (adding mcp client)
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
     { name = "pandas" },
 ]
 
@@ -670,7 +676,10 @@ wheels = [
 
 [[package]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
 name = "proto-plus"
 version = "1.26.1"
 source = { registry = "https://pypi.org/simple" }
@@ -779,7 +788,10 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 >>>>>>> a941ded (adding mcp client)
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
 name = "python-dateutil"
 version = "2.9.0.post0"
 source = { registry = "https://pypi.org/simple" }
@@ -868,7 +880,10 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 >>>>>>> a941ded (adding mcp client)
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
 name = "six"
 version = "1.17.0"
 source = { registry = "https://pypi.org/simple" }

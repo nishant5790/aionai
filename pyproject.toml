@@ -6,11 +6,17 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
     "langchain>=0.3.26",
     "langchain-google-genai>=2.1.6",
     "langgraph>=0.5.1",
     "langgraph-cli[inmem]>=0.3.3",
+<<<<<<< HEAD
 >>>>>>> a941ded (adding mcp client)
+=======
+>>>>>>> a941ded2a785b7400129790b92fe3e78f84e646d
     "pandas>=2.3.0",
 ]
